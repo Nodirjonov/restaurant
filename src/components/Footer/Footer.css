@@ -1,0 +1,83 @@
+.aaa{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #1C1C1C;
+    height: 60vh;
+}
+.mini-sec1{
+    color: white;
+}
+.mini-sec2{
+    color: white;
+    width: 300px;
+    
+}
+.mini-sec2 input{
+    width: 200px;
+    height: 25px;
+  
+}
+.mini-sec2 .input-big{
+    width: 200px;
+    height: 125px;
+}
+.pus{
+    height: 5px;
+}
+.mini-sec2 button{
+    width: 130px;
+    height: 35px;
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+border: none;
+transition: 0.1s ease-in-out;
+}
+.mini-sec2 button:hover{
+    border: 3px solid white;
+}
+.mini-sec2 h2{
+    font-size: 35px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    width: 200px;
+}
+.mini-sec1 h2{
+    font-size: 35px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    width: 200px;
+}
+.mini-sec1 h2{
+  text-align: center;
+}
+.mini-sec2 h2{
+    text-align: center;
+}
+.pustoooo{
+    height: 30px;
+}
+.rrrr{
+    width: 200px;
+    text-align: center;
+}
+.pusy{
+    height: 25px;
+}
+.ppp{
+    height: 10px;
+}
+.p{
+    height: 30px;
+}
+.pppp{
+    height: 25px;
+}
+.mini-sec3{
+    color: white;
+    text-align: center;
+}
+.mini-sec3 h2{
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-size: 35px;
+    width: 200px;
+}

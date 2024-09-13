@@ -1,0 +1,39 @@
+.righp{
+   width: 600px;
+color: white;
+margin-left: 100px;
+}
+.lefp img{
+width: 300px;
+height: 500px;
+}
+.ee{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.righp img{
+    width: 200px;
+    height: 70px;
+}
+.righp h2{
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-size: 30px;
+}
+.righp h1{
+  font-size: 60px;
+}
+.righp p{
+  font-size: 27px;
+}
+.btn-img{
+  width: 430px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.sec-5-backimg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,39 @@
+.boss{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.rightt p{
+    width: 400px;
+    font-size: 17px;
+}
+.span{
+    width: 20px;
+    height: 20px;
+}
+.spann{
+    width: 20px;
+    height: 10px;
+}
+.rightt h2{
+    font-weight: bold;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+  font-size: 30px;
+}
+.rightt h1{
+    font-weight: bold;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.sec2-btn{
+    width: 130px;
+    height: 35px;
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+border: none;
+transition: 0.1s;
+}
+.sec2-btn:hover{
+    border: 3px solid rgb(0, 0, 0);
+}

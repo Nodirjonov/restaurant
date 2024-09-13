@@ -1,0 +1,37 @@
+.bac-im1{
+z-index: 0;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.sec1-h1{
+    text-align: center;
+    font-size: 80px;
+    color: white;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+  
+}
+.sec1-p{
+    color: white;
+    font-size: 20px;
+    margin: 20px;
+    text-align: center;
+}
+.sec1-btn{
+    text-align: center;
+    background-color: rgba(0,0,0,0);
+    color: white;
+    border: 2px solid white;
+    border-radius: 5px;
+    width: 180px;
+    height: 45px;
+    font-size: 16px;
+    transition: 0.3s;
+}
+.sec1-btn:hover{
+    background-color: orange;
+}
+.sec1-btn-dv{
+   
+    text-align: center;
+}

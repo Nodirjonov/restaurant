@@ -1,0 +1,83 @@
+.on {
+    background-color: white;
+    width: 450px;
+    height: 600px;
+}
+.chapp {
+    background-color: white;
+    width: 450px;
+    height: 600px;
+}
+.sec45-dv1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sec45-dv2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.mini-on{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.dd{
+    width: 450px;
+}
+.chap img{
+z-index: 0;
+position: relative;
+margin-right: 390px;
+margin-top: 150px;
+}
+.onn img{
+z-index: 0;
+position: relative;
+margin-left: 390px;
+margin-top: 150px;
+}
+.on{
+z-index: 1;
+margin-bottom: 100px;
+margin-left: 390px;
+position: absolute;
+margin-top: 150px;
+}
+.chapp{
+z-index: 1;
+margin-bottom: 100px;
+margin-right: 390px;
+position: absolute;
+margin-top: 150px;
+}
+.ooo h2{
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+.ooo h1{
+font-size: 50px;
+color: white;
+text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.on h1{
+    color: black;text-align: start;
+    font-family:  Brush Script MT, Brush Script Std, cursive;
+}
+.chapp h1{
+    color: black;text-align: start;
+    font-family:  Brush Script MT, Brush Script Std, cursive;
+}
+.mini-on p{
+    font-size: larger;
+}
+.ppppp{
+    height: 45px;
+}
+.pop{
+    height: 100px;
+}
